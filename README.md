@@ -1,29 +1,27 @@
-Python Expert Quiz App
-Project Overview
-A professional desktop quiz application built with Python using the CustomTkinter library.
+# 🐍 Python Expert Quiz App
 
-Features
-Modern UI: Built with a sleek CustomTkinter interface.
+### **Project Overview**
+A professional desktop quiz application built with Python using the **CustomTkinter** library. This app provides a modern, fast, and interactive user experience for testing Python knowledge.
 
-Timed Challenges: 15 seconds per question to test quick thinking.
+### **Key Features**
+* **Modern UI:** Built with a sleek and responsive CustomTkinter interface.
+* **Timed Challenges:** 15 seconds per question to test quick thinking and accuracy.
+* **Health System:** 3 lives to complete the quiz; incorrect answers cost lives.
+* **Results:** A comprehensive final score summary displayed at the end of the session.
 
-Health System: 3 lives to complete the quiz; mistakes cost lives.
+### **Project Gallery**
 
-Results: A comprehensive final score summary at the end.
+| **Welcome Screen** | **Active Quiz Screen** |
+| :---: | :---: |
+| ![Welcome Screen](https://raw.githubusercontent.com/saimapythondeveloper/Python-Development/main/welcome%20screen.png) | ![Active Quiz](https://raw.githubusercontent.com/saimapythondeveloper/Python-Development/main/Active%20Screen.png) |
 
-Screenshots
-(Yahan aap apni images link kar den taake Sir ko foran nazar ayen)
+> **Note:** Above screenshots demonstrate the entry point and the live quiz feedback system.
 
-Welcome Screen: !https://github.com/saimapythondeveloper/Python-Development/blob/main/welcome%20screen.png
+---
 
-Active Quiz: !(https://github.com/saimapythondeveloper/Python-Development/blob/main/Active%20Screen.png)
+### **How to Run**
+To run this application locally, follow these steps:
 
-How to Run
-Install requirements: pip install customtkinter
-
-Run the app: python quiz_app.py
-
-
-Submitted To: Sir Faizan Ali
-
-Date: January 9, 2026
+1. **Install requirements:**
+   ```bash
+   pip install customtkinter
